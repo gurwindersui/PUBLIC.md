@@ -1,7 +1,7 @@
 
 
 
-security reseracher and sui (blockchain)
+i am security reseracher and sui (blockchain)
 
 ##  Private NDA Bounties
 

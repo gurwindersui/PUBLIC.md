@@ -12,3 +12,11 @@ security reseracher and sui (blockchain)
 | 3 | Private (NDA) | Liquid Staking | 1H             | NDA    | Move     |
 | 4 | Private (NDA) | CDP            | 1L             | NDA    | Move     |
 | 5 | Private (NDA) | Lending        | 2H             | NDA    | Move     |
+
+---
+
+## Public Audit Contests
+
+| № | Project       | Category       | Findings              | Language |
+|--|--------------|---------------|----------------------|----------|
+| 1 | Aave (Aptos) | Lending (Move) | 1 Unique, 1 Unique Info | Move     |
